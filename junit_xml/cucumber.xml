@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Shopping cart end to end test." name="Customer places an successful order." time="0">
+<skipped><![CDATA[Given user is on the shopping portal........................................undefined
+When user selects the product...............................................undefined
+And user add the product to cart............................................undefined
+And user clicks the proceed checkout button.................................undefined
+Then user navigates back to the product listing page........................undefined
+And user selects the new product............................................undefined
+And user adds other product to cart.........................................undefined
+Then user proceeds with checkout action.....................................undefined
+Then user proceeds from summary page........................................undefined
+Then User logs into the application with valid credentials..................undefined
+Then user performs checkout operation from address page.....................undefined
+Then user accepts the terms AND performs checkout from shipping page........undefined
+Then user selects the payment method........................................undefined
+Then user confirms the order from payment page..............................undefined
+Then validate the order confirmation........................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
